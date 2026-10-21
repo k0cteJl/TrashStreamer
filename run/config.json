@@ -1,0 +1,17 @@
+{
+  "bot_token": "8407075448:AAHJr81eoaQGB_BmQAgjUyI0bfQZKntFy0M",
+  "admin_chat_id": null,
+  "check_interval_minutes": 60,
+  "backup_interval_minutes": 60,
+  "backup_keep": 168,
+  "timezone": "Europe/Moscow",
+  "data_dir": "data",
+  "groups": [
+    {
+      "group_name": "РПО-1",
+      "username": "Gally_rc58",
+      "password": "63Wk21Fr",
+      "application_key": "6a56a5df2667e65aab73ce76d1dd737f7d1faef9c52e8b8c55ac75f565d8e8a6"
+    }
+  ]
+}
